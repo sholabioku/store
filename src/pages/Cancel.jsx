@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Cancel = () => {
-  return <div>Cancel</div>;
+  return <h1>Sorry to see you cancelled your stripe payement</h1>;
 };
 
 export default Cancel;
